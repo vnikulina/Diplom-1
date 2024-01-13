@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 import java.util.concurrent.ThreadLocalRandom;
 
 @RunWith(Parameterized.class)
-public class BunTest {
+class BunTest {
     private final String name;
     private final float price;
 
